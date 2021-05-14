@@ -9,3 +9,7 @@
     404.pug => app.js   render edildi...
 
 3- Şablonların Eklenmesi
+
+4- Dinamik İçerik
+    #{title} => {title:'...'}
+    `${dizi_adi.dizi_elamanı}`

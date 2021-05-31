@@ -13,3 +13,5 @@
 4- Dinamik İçerik
     #{title} => {title:'...'}
     `${dizi_adi.dizi_elamanı}`
+
+5- Ürün ekleme 

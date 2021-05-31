@@ -19,3 +19,10 @@
 6- Partial Views
    index.pug && main_layout.pug => includes dosyası
    mixing -> include -> +fonc
+
+7- Koşullar
+    mixing ->mixins folder -> +fonc
+    includes -> slider.pug
+    user.js && admin.js dosya yolu belirtildi.
+    navbar.pug -> linkler aktif hale getirildi.
+    

@@ -15,3 +15,7 @@
     `${dizi_adi.dizi_elamanı}`
 
 5- Ürün ekleme 
+
+6- Partial Views
+   index.pug && main_layout.pug => includes dosyası
+   mixing -> include -> +fonc

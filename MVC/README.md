@@ -5,3 +5,5 @@
 
 2) models
     ürünlerin elle girilip kaydedilmesi ve tüm ürünlerin addproduct'ta görüntülenmesi 
+
+3) Create the Shop Structure

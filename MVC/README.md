@@ -9,3 +9,5 @@
 3) Create the Shop Structure
 
 4) Create the Admin Structure
+
+5) Ürün listesi
